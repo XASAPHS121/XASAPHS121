@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**XASAPHS121/XASAPHS121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Andreas, a Computer Science student passionate about networking, system administration, and practical software projects.
+I enjoy building real-world tools like Discord bots, Raspberry Pi servers, and automation setups.
+Always experimenting with new technologies, optimizing systems, and learning by doing.
 
-Here are some ideas to get you started:
+**Main interests:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Linux & server hosting
+
+Networking and system tools
+
+Automation and scripting
+
+Discord bot development
+
+Currently working on personal projects and improving my skills one build at a time.
