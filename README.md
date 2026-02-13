@@ -1,4 +1,4 @@
-## About me:
+# About me:
 
 I am Andreas, a Computer Science student passionate about networking, system administration, and practical software projects.
 I enjoy building real-world tools like Discord bots, Raspberry Pi servers, and automation setups.
