@@ -2,10 +2,11 @@
 
 Hi there 👋
 
-I am Andreas, a Computer Science student passionate about networking, system administration, and practical software projects.
+I'm Andreas, a Computer Science student specializing in Digital Systems. I'm passionate about networking, system administration, and building practical software tools that solve real problems.
 
-I enjoy building real-world tools like Discord bots, Raspberry Pi servers, and automation setups.
-Always experimenting with new technologies, optimizing systems, and learning by doing.
+My projects range from Discord bots and Raspberry Pi automation servers to game utilities and sim racing tools — always focused on learning by doing and shipping working code.
+
+Currently expanding into IT infrastructure, cloud, and security certifications as part of a long-term path toward a career in system/network engineering.
 
 
 **Main interests:**
